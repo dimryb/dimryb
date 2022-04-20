@@ -14,7 +14,7 @@
 
 <p>Дипломная работа на Java в Нетологии: <a href="https://github.com/dimryb/java-diplom">https://github.com/dimryb/java-diplom</a></p>
 
-<p>&nbsp;</p>
+<p>Приложение Android работа с сенсорами:&nbsp;<a href="https://github.com/dimryb/Qr">https://github.com/dimryb/Qr</a></p>
 
 <h2>Мои сертификаты</h2>
 
