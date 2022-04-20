@@ -16,6 +16,10 @@
 
 <p>Приложение Android работа с сенсорами:&nbsp;<a href="https://github.com/dimryb/Qr">https://github.com/dimryb/Qr</a></p>
 
+<h2>А еще умею</h2>
+
+<p>Разрабатывать сцены на игравом движке Unreal Engine 4 с использованием языка Blueprints:&nbsp;<a href="https://www.youtube.com/channel/UCRYbEpxZM-leqOSjbSJsf3w">мой канал на Youtube</a></p>
+
 <h2>Мои сертификаты</h2>
 
 <p>Новые стандарты С++ на Coursera в 2020 году: <a href="https://coursera.org/share/6887b58096eea23b7732f9f645f8d446">электронный сертификат</a>, <a href="https://github.com/dimryb/dimryb/blob/c98ab1ba0b31b0131997e12fc9646a315621aa43/Coursera%20D9NTQD72W6CU%20C++.pdf">pdf версия</a></p>
