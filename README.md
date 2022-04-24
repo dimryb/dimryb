@@ -6,7 +6,7 @@
 
 <h2>Вот, что я умею</h2>
 
-<p>Тестовое задание на C детекция пиков в многомерном массиве для сигнального процессора TI: <a href="https://github.com/dimryb/getpeaker">https://github.com/dimryb/getpeaker</a></p>
+<p>Тестовое задание на C. Детекции пиков в многомерном массиве для сигнального процессора TI: <a href="https://github.com/dimryb/getpeaker">https://github.com/dimryb/getpeaker</a></p>
 
 <p>Различные эксперименты на Python: <a href="https://github.com/dimryb/pythonExperiments">https://github.com/dimryb/pythonExperiments</a></p>
 
