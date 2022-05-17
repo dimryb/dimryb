@@ -23,7 +23,7 @@
 
 <p>Тестовое приложение Android на Kotlin для работы с сенсорами, QR кодом и разрешениями: <a href="https://github.com/dimryb/Qr">https://github.com/dimryb/Qr</a></p>
 
-<p>Приложение со списком элементов по принципу Clean Architecture: <a href="https://github.com/dimryb/ShoppingList">https://github.com/dimryb/ShoppingList</a></p>
+<p>Приложение со списком товаров с использованием фрагментов: <a href="https://github.com/dimryb/ShoppingList">https://github.com/dimryb/ShoppingList</a></p>
 
 <p>Различные упражнения на Kotlin c CI и тестами на JUnit, например: <a href="https://github.com/dimryb/differentCommission">вот</a> и <a href="https://github.com/dimryb/posts">вот</a></p>
 
