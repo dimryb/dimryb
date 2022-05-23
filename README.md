@@ -25,6 +25,8 @@
 
 <p>Приложение со списком товаров с использованием фрагментов: <a href="https://github.com/dimryb/ShoppingList">https://github.com/dimryb/ShoppingList</a></p>
 
+<p>Тренировочное приложение Composition: <a href=https://github.com/dimryb/Composition">https://github.com/dimryb/Composition</a></p>
+
 <p>Различные упражнения на Kotlin c CI и тестами на JUnit, например: <a href="https://github.com/dimryb/differentCommission">вот</a> и <a href="https://github.com/dimryb/posts">вот</a></p>
 
 <h2>А еще умею</h2>
