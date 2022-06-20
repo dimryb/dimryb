@@ -17,11 +17,11 @@
 
 <p>Различные эксперименты на Python: <a href="https://github.com/dimryb/pythonExperiments">https://github.com/dimryb/pythonExperiments</a></p>
 
-<p>Пробное приложение Android на Kotlin для работы с сенсорами: акселерометр и уровень, сканер и генератор QR кодов, с запросом разрешений и на фрагментах: <a href="https://github.com/dimryb/Qr">https://github.com/dimryb/Qr</a></p>
+<p>Первое пробное приложение Android на Kotlin для работы с сенсорами: акселерометр и уровень, сканер и генератор QR кодов, с запросом разрешений и на фрагментах: <a href="https://github.com/dimryb/Qr">https://github.com/dimryb/Qr</a></p>
 
 <p>Приложение со списком товаров с использованием фрагментов: <a href="https://github.com/dimryb/ShoppingList">https://github.com/dimryb/ShoppingList</a></p>
 
-<p>Тренировочное приложение Composition: <a href=https://github.com/dimryb/Composition">https://github.com/dimryb/Composition</a></p>
+<p>Математическая игра на сложение чисел: <a href=https://github.com/dimryb/Composition">Composition</a></p>
 
 <p>Различные упражнения на Kotlin c CI и тестами на JUnit, например: <a href="https://github.com/dimryb/differentCommission">вот</a> и <a href="https://github.com/dimryb/posts">вот</a></p>
 
