@@ -13,9 +13,9 @@
 
 <h2>Вот, что я умею</h2>
 
-<p>Тестовое задание на C. Детекции пиков в многомерном массиве для сигнального процессора TI: <a href="https://github.com/dimryb/getpeaker">https://github.com/dimryb/getpeaker</a></p>
+<p>Тестовое задание на C. Детекции пиков в многомерном массиве для сигнального процессора TI: <a href="https://github.com/dimryb/getpeaker">GetPeaker</a></p>
 
-<p>Различные эксперименты на Python: <a href="https://github.com/dimryb/pythonExperiments">https://github.com/dimryb/pythonExperiments</a></p>
+<p>Различные эксперименты на <a href="https://github.com/dimryb/pythonExperiments">Python</a></p>
 
 <p>Первое пробное приложение Android на Kotlin для работы с сенсорами: акселерометр и уровень, сканер и генератор QR кодов, с запросом разрешений и на фрагментах: <a href="https://github.com/dimryb/Qr">QR-SuperLevel</a></p>
 
