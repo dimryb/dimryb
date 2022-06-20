@@ -19,7 +19,7 @@
 
 <p>Первое пробное приложение Android на Kotlin для работы с сенсорами: акселерометр и уровень, сканер и генератор QR кодов, с запросом разрешений и на фрагментах: <a href="https://github.com/dimryb/Qr">QR-SuperLevel</a></p>
 
-<p>Приложение со списком товаров с использованием фрагментов: <a href="https://github.com/dimryb/ShoppingList">https://github.com/dimryb/ShoppingList</a></p>
+<p>Приложение со списком товаров с использованием фрагментов: <a href="https://github.com/dimryb/ShoppingList">Список товаров (ShoppingList)</a></p>
 
 <p>Математическая игра на сложение чисел: <a href=https://github.com/dimryb/Composition>Composition</a></p>
 
