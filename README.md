@@ -11,21 +11,15 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimryb&layout=compact"/></a>
 </p>
 
-<h2>Вот, что я умею</h2>
+<h2>Мои приложения/h2>
 
-<p>Тестовое задание на C. Детекции пиков в многомерном массиве для сигнального процессора TI: <a href="https://github.com/dimryb/getpeaker">GetPeaker</a></p>
-
-<p>Различные эксперименты на <a href="https://github.com/dimryb/pythonExperiments">Python</a></p>
-
-<p>Первое пробное приложение Android на Kotlin для работы с сенсорами: акселерометр и уровень, сканер и генератор QR кодов, с запросом разрешений и на фрагментах: <a href="https://github.com/dimryb/Qr">QR-SuperLevel</a></p>
-
-<p>Различные упражнения на Kotlin c CI и тестами на JUnit, например: <a href="https://github.com/dimryb/differentCommission">вот</a> и <a href="https://github.com/dimryb/posts">вот</a></p>
-
-<p>Приложение со списком товаров с фрагментами на RecyclerView: <a href="https://github.com/dimryb/ShoppingList">Список товаров (ShoppingList)</a></p>
+<p>Приложение Список товаров на RecyclerView: <a href="https://github.com/dimryb/ShoppingList">Список товаров (ShoppingList)</a></p>
 
 <p>Математическая игра на сложение чисел: <a href=https://github.com/dimryb/Composition>Composition</a></p>
 
-<p>Проба всех видов сервисов и Воркера: <a href=https://github.com/dimryb/ServicesTest>ServicesTest</a></p>
+<p>Пробник всех видов сервисов и Воркера: <a href=https://github.com/dimryb/ServicesTest>ServicesTest</a></p>
+
+<p>Остальные новые прилажухи ожидают внесения в этот реест. Ищите результаты моего труда в моих репозиториях, а их уже под полсотни накопилось</a></p>
 
 <h2>Мои сертификаты</h2>
 
