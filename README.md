@@ -11,7 +11,7 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimryb&layout=compact"/></a>
 </p>
 
-<h2>Мои приложения/h2>
+<h2>Мои приложения</h2>
 
 <p>Приложение Список товаров на RecyclerView: <a href="https://github.com/dimryb/ShoppingList">Список товаров (ShoppingList)</a></p>
 
