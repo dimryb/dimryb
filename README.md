@@ -4,13 +4,6 @@
 
 <p>Мой стаж работы 15 лет в программировании, большая часть из которого в качестве ведущего инженера-программиста.</p>
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=dimryb&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=dimryb&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/dimryb/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimryb&layout=compact"/></a>
-</p>
-
 <h2>Мои приложения</h2>
 
 <p>Приложение Список товаров на RecyclerView: <a href="https://github.com/dimryb/ShoppingList">Список товаров (ShoppingList)</a></p>
